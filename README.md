@@ -1,5 +1,4 @@
 ## BMI CALCULATOR
-<br>
 
 ## Some images of BMI Calculator
 
@@ -41,6 +40,3 @@ div1{
  1. Type `git clone https://github.com/Masaf23/BMI-Calculator.git`
  1. Press **Enter** to create the clone of this repositary.
 
-
-
-[![alttext](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Sagar-Sharma-7)
