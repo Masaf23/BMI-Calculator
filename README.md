@@ -1,7 +1,4 @@
 ## BMI CALCULATOR
-## Want to know your Body Mass Index, click on the link below
-### [BMI Calculator](https://sagar-sharma-7.github.io/BMI-Calculator/)
-### ```NOTE: Open the above link in Google Chrome...```
 <br>
 
 ## Some images of BMI Calculator
@@ -41,23 +38,9 @@ div1{
 ## Cloning this repositary using command line
  1. Open **Git Bash**.
  1. Change the current working directory to the location where you want the cloned directory.
- 1. Type `git clone https://github.com/Sagar-Sharma-7/BMI-Calculator.git`
+ 1. Type `git clone https://github.com/Masaf23/BMI-Calculator.git`
  1. Press **Enter** to create the clone of this repositary.
 
-
- ## How to reach me?
- [ ![ForTheBadge makes-people-smile](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:6969sagarsharma@gmail.com)
- <hr>
- <br>
-
-[![Follower](https://img.shields.io/github/followers/sagar-sharma-7?style=social)](https://github.com/Sagar-Sharma-7)
- <hr>
- <p float="left">
-
-[![ForTheBadge built-with-love](https://forthebadge.com/images/badges/built-with-love.svg)](https://github.com/Sagar-Sharma-7)
-[ ![ForTheBadge makes-people-smile](https://forthebadge.com/images/badges/makes-people-smile.svg)](https://github.com/Sagar-Sharma-7)
-
-</p>
 
 
 [![alttext](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Sagar-Sharma-7)
